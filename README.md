@@ -1,4 +1,4 @@
-# 🎮 Baymax & Caterpillar Rail Shooter
+# 🎮 Invasion Rush
 
 A 3D rail shooter built with **C++**, **OpenGL**, and **FreeGLUT**, where the player must survive increasingly difficult waves of enemies while aiming with the mouse and managing limited ammunition.
 
